@@ -14,4 +14,4 @@ Ajv also joined [OpenJS Foundation](https://openjsf.org/) – having this suppor
 
 This [blog post](https://www.poberezkin.com/posts/2020-08-14-ajv-json-validator-mozilla-open-source-grant-openjs-foundation.html) has more details.
 
-I am looking for the long term maintainers of Ajv – working with [ReadySet](https://www.thereadyset.co/), also sponsored by Mozilla, to establish clear guidelines for the role of a "maintainer" and the contribution standards, and to encourage a wider, more inclusive, contribution from the community.
+I am looking for the long term maintainers of Ajv – working with [Symmetraglobal](https://symmetraglobal.com/), also sponsored by Mozilla, to establish clear guidelines for the role of a "maintainer" and the contribution standards, and to encourage a wider, more inclusive, contribution from the community.
